@@ -8,6 +8,6 @@
     "packages/server",
     "packages/usage-reporting-protobuf"
   ],
-  "sandboxes": ["apollo-server-typescript-3opde","apollo-server"],
+  "sandboxes": ["samkenx-server-typescript-3opde","samkenx-server"],
   "node": "18"
 }
